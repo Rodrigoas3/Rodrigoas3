@@ -1,7 +1,7 @@
-### Olá, Me chamo Rodrigo Almeida.
+### Olá, Sou Rodrigo Almeida.
 
 - 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Estudando Typescript,Node,Kotlin.
+- 🌱 Estudando Typescript,Node,Java.
 
 <div align="text-align:lef">
   <a href="https://github.com/Rodrigoas3">
