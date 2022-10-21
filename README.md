@@ -1,20 +1,19 @@
-### Olá, Sou Rodrigo Almeida.
+<h1 align="center">Hey there, I'm Rodrigo Almeida</h1>
 
-- 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Estudando Typescript,Node,Java.
+
+I'm a software developer .
+<br/>
+###
+
+<h3> And my Github Stats</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoas3&exclude_repo=programming_introduction,algorithms_data_structures_exercises&hide=c%2B%2B&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Rodrigoas3" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Rodrigoas3" height="150" alt="languages graph"  />
-</div>
-
 ###
 
-<img align="right" height="91" src="https://media.giphy.com/media/3lvqNXheb679S/giphy.gif"  />
-
-###
+<h3> Here are my main skills</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
@@ -24,9 +23,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
+  
+  <img align="right" height="91" src="https://media.giphy.com/media/2UCt7zbmsLoCXybx6t/giphy.gif"  />
 </div>
 
 ###
+
+
+<h3> Contact me!</h3>
 
 <div align="left">
   <a href="https://discord.gg/TXDp7Cws" target="_blank">
