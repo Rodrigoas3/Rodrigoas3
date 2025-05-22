@@ -4,7 +4,8 @@
 
 ---
 
-![Status](https://raw.githubusercontent.com/Rodrigoas3/Rodrigoas3/output/profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 ---
